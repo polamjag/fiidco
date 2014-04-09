@@ -1,4 +1,4 @@
-# fiidco / fiid.co - Beyond Aggrigetors
+# fiidco / fiid.co - Beyond Aggregators
 now in development :)
 
 # roadmaps and goals

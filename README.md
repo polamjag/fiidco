@@ -1,4 +1,4 @@
-# fiidco / fiid.co - Beyond RSS feed readers
+# fiidco / fiid.co - Beyond Aggrigetors
 now in development :)
 
 # roadmaps and goals
